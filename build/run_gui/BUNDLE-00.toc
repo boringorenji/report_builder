@@ -1,0 +1,3 @@
+([('run_gui',
+   '/Users/fionnaalisa/Desktop/code/RB_GUI/dist/run_gui',
+   'EXECUTABLE')],)
